@@ -1,0 +1,17 @@
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\bin\Debug\EnvioCartasCobranzas.exe.config
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\bin\Debug\EnvioCartasCobranzas.exe
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\bin\Debug\EnvioCartasCobranzas.pdb
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\bin\Debug\AdvancedDataGridView.dll
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\bin\Debug\DataGridViewAutoFilter.dll
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\bin\Debug\AdvancedDataGridView.xml
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\obj\Debug\EnvioCartasCobranzas.csprojAssemblyReference.cache
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\obj\Debug\EnvioCartasCobranzas.csproj.ResolveComReference.cache
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\obj\Debug\EnvioCartasCobranzas.frmCobranza.resources
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\obj\Debug\EnvioCartasCobranzas.FrmParametros.resources
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\obj\Debug\EnvioCartasCobranzas.Properties.Resources.resources
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\obj\Debug\EnvioCartasCobranzas.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\obj\Debug\EnvioCartasCobranzas.csproj.CopyComplete
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\obj\Debug\EnvioCartasCobranzas.exe
+C:\Users\cesar\OneDrive\Proyectos\Vendomatica\Desarrollo.Net\EnvioCartaCobranza\EnvioCartasCobranzas\obj\Debug\EnvioCartasCobranzas.pdb
