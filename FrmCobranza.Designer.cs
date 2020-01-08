@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.administraciónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.parametrosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -169,8 +169,8 @@
             // 
             // Saldo
             // 
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight;
-            this.Saldo.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight;
+            this.Saldo.DefaultCellStyle = dataGridViewCellStyle1;
             this.Saldo.HeaderText = "Saldo";
             this.Saldo.Name = "Saldo";
             // 
@@ -312,7 +312,7 @@
             "eMail_3"});
             this.cbTipoEmail.Location = new System.Drawing.Point(341, 57);
             this.cbTipoEmail.Name = "cbTipoEmail";
-            this.cbTipoEmail.Size = new System.Drawing.Size(160, 21);
+            this.cbTipoEmail.Size = new System.Drawing.Size(184, 21);
             this.cbTipoEmail.TabIndex = 13;
             // 
             // label3
